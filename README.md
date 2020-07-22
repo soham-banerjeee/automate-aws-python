@@ -1,2 +1,2 @@
 # automate-aws-python
-Automation project
+Automation project for myself
